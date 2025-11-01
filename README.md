@@ -244,6 +244,6 @@ For issues, questions, or feature requests, please open an issue on GitHub or vi
 
 ---
 
-**Live Demo:** [https://theme-customizer.vercel.app](https://theme-customizer.vercel.app)
+**Live Demo:** https://theme-toggler-app-1ijq.vercel.app/
 
 Built with ❤️ using Next.js, TypeScript, and shadcn/ui
