@@ -1,7 +1,7 @@
 import { type NextRequest, NextResponse } from "next/server"
 
 // In-memory storage (replace with MongoDB in production)
-const themes: Array<{
+export const themes: Array<{
   _id: string
   accentColor: string
   primaryColor: string
